@@ -1,0 +1,27 @@
+{
+    "currentVersionInfo": {
+        "version": "1.5.19",
+        "hasShownChangelog": true
+    },
+    "image": {
+        "medias": [
+            {
+                "url": "https://cdn.discordapp.com/attachments/933824607784435724/935282226604671036/90CC120B-05DD-46F6-880A-12E3E362374F.jpg",
+                "width": 225,
+                "height": 300,
+                "name": "90CC120B-05DD-46F6-880A-12E3E362374F"
+            }
+        ]
+    },
+    "video": {
+        "medias": [
+            {
+                "url": "https://cdn.discordapp.com/attachments/912798652852994118/987881201941508157/0ixKXNDo4Y5ssRBF.mp4",
+                "poster": "https://media.discordapp.net/attachments/912798652852994118/987881201941508157/0ixKXNDo4Y5ssRBF.mp4?format=jpeg&width=169&height=300",
+                "width": 169,
+                "height": 300,
+                "name": "0ixKXNDo4Y5ssRBF"
+            }
+        ]
+    }
+}
